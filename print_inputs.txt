@@ -1,0 +1,8 @@
+After fake_db_retrieval_step: {'question': 'Is Polly cool?', 'facts': 'Polly likes treats and naps.'}
+After prompt, before LLM: Question: Is Polly cool?
+Facts: Polly likes treats and naps.
+Answer based on facts.
+LLM received: Question: Is Polly cool?
+Facts: Polly likes treats and naps.
+Answer based on facts.
+Final response: Fake LLM response: Yes, Polly is awesome.
